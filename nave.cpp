@@ -1,6 +1,3 @@
-/*Jorge Ortega(2022119007) 
-Juan Pardo (2022119015)  
-Luis Brito(2022119035)*/
 #include <iostream>
 #include <conio.h>
 #include <windows.h>
